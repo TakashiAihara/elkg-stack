@@ -1,0 +1,6 @@
+[submodule "grafana"]
+	path = grafana
+	url = https://github.com/grafana/grafana
+[submodule "elastalert2"]
+	path = elastalert2
+	url = https://github.com/jertel/elastalert2.git
